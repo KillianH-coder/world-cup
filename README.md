@@ -6,7 +6,7 @@ A simple go program to simulate a world cup.
 
 You need to use the command `go run .` in the root directory.
 
-_the results will be displayed in the ***leaderboard.txt*** and the ***scoreboard.txt file***_
+_the results will be in ***leaderboard.txt*** and ***scoreboard.txt***_
 
 ## Depedencies
 
